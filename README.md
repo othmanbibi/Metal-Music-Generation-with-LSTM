@@ -16,7 +16,7 @@ Listen to what the model can generate:
 
 ### 🎸 Generated Metal Riffs
 
-- [Sample Riff 1](transformed_riffs/generated_riff_002_metal.mp3)
+- [Sample Riff 1](transformed_riffs/generated_riff_002_metal.mp4)
 
 
 
