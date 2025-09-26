@@ -15,10 +15,10 @@ A deep learning pipeline for generating metal music using LSTM neural networks. 
 Listen to what the model can generate:
 
 **Generated Metal Riffs:**
-- [Sample Riff 1 - Power Metal Style](samples/generated_riff_001.mp3) - Fast-paced with galloping rhythms
-- [Sample Riff 2 - Thrash Metal](samples/generated_riff_002.mp3) - Aggressive palm-muted patterns  
-- [Sample Riff 3 - Progressive Metal](samples/generated_riff_003.mp3) - Complex time signatures and harmonies
-- [Sample Riff 4 - Death Metal](samples/generated_riff_004.mp3) - Low-tuned with blast beats
+- [Sample Riff 1](transformed_riffs/generated_riff_002_metal.mp3) 
+- [Sample Riff 2](samples/generated_riff_002.mp3) 
+- [Sample Riff 3 - Progressive Metal](samples/generated_riff_003.mp3)
+- [Sample Riff 4 - Death Metal](samples/generated_riff_004.mp3)
 
 
 
