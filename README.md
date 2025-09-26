@@ -10,12 +10,12 @@ A deep learning pipeline for generating metal music using LSTM neural networks. 
 - **High-Quality Audio Output**: Converts generated MIDI to professional audio using FluidSynth and multiple SoundFonts
 - **Configurable Pipeline**: Easily adaptable parameters for different metal subgenres
 
-## 🎵 Sample Outputs
 
-Listen to what the model can generate:
 
 ### 🎸 Generated Metal Riffs
-transformed_riffs/generated-riff-002-metal.mp4
+**Sample Riff 1**
+
+![riff](transformed_riffs/generated-riff-002-metal.mp4)
 
 
 
