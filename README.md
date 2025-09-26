@@ -38,8 +38,8 @@ Metal-Music-Generation-with-LSTM/
 │       ├── raw/                   # Raw MIDI files
 │       └── processed/arrays/      # Preprocessed numpy arrays
 ├── checkpoints/                   # Trained model checkpoints
-├── outputs/                       # Generated MIDI files
-├── audio/                       # Final audio outputs
+├── generated_midi_files/          # Generated MIDI files
+├── transformed_riffs/             # Final audio outputs
 │   ├── generated_riff_001.mp3
 │   ├── generated_riff_002.mp3
 │   └── ...
