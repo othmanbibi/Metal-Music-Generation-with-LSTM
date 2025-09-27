@@ -14,7 +14,8 @@ A deep learning pipeline for generating metal music using LSTM neural networks. 
 
 ### 🎸 Generated Metal Riffs
 **Sample Riff 1**
-[generated-riff-002-metal.mp4](https://github.com/othmanbibi/Metal-Music-Generation-with-LSTM/blob/main/transformed_riffs/generated-riff-002-metal.mp4)
+https://github.com/user-attachments/assets/470f52fb-928e-4cb6-a902-bf4017cad4ab
+
 
 
 
